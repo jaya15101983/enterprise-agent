@@ -65,7 +65,7 @@ Regex-based (~0.5ms) for blocking, LLM-based for flagging only.
 
 ## Blog Post
 
-Full technical deep-dive: [Why 90% of AI Agent Projects Fail Before They Reach Production](link-to-medium)
+Full technical deep-dive: [Why 90% of AI Agent Projects Fail Before They Reach Production](https://jaybigdataiscool.medium.com/why-90-of-ai-agent-projects-fail-before-they-reach-production-4b948d804567)
 
 ## License
 
